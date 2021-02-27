@@ -1,4 +1,3 @@
-Fake news detector to projekt, który wykorzystuje metody uczenia maszynowego, a w szczególności proste modele klasyfikacji, w celu 
-przewidzenia czy dana wiadomość jest prawdziwa lub nie.
+Fake news detector it's a project, which uses machine learning methods and especially simple classification methods to predict if provided text is fake news or not.
 
-Dane pochodzą ze strony https://data-flair.trainin
+Dataset comes from serrvice dataflair: https://data-flair.trainin.
